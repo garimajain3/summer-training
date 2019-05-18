@@ -1,0 +1,3 @@
+x=input("enter a no")
+y=input("enter a no")
+print("x+y",x+y)
